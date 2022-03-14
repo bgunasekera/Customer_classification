@@ -1,0 +1,9 @@
+Column Name,Description of Data
+Customer_Key,An identifier for each customer
+Total_Number_of_Calls,The number of calls that a customer has made to the business in total within the last 3 months
+AHT,The average length of time that the customer is on a call with us
+Contract_End_Date,The date that their current contract is due to expire
+Call_Date,The date the customer made first contact with us
+Product_Type,The type of product that the customer has with us
+Product_Status,The current status of the product
+Customer_Type,The customer category label
